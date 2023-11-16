@@ -1,0 +1,43 @@
+body
+{
+	background-image:linear-gradient(to right bottom, white, red);
+	height:100em;
+}
+
+main
+{
+	margin-right:auto;
+	margin-left:auto;
+	background-color:white;
+	width:60em;
+	border-radius:15px;
+	overflow:auto;
+}
+
+main h1,p
+{
+	text-align:center;
+	font-family:"Comic Sans MS";
+}
+div h1
+{
+	background-color:red;
+	width:800px;
+	height:40px;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:15px;
+}
+
+img
+{
+	float:right;
+	padding:15px;
+	border-radius:25px;
+}
+
+h1,p
+{
+	text-shadow:red 1px 1px;
+	display:inline;
+}
